@@ -61,8 +61,8 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    color: red;
+    color: blueviolet;
     font-size: 50px;
-    margin-top: 45px;
+    margin-top: 5px;
     transition: all .5s;
 }
